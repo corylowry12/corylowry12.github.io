@@ -4,32 +4,17 @@ An app, available on Android, and soon to be iOS, that you can use to calculate 
 
 ### Download Links
 
-[Android](googleplay.com)
+[Android](https://play.google.com/store/apps/details?id=com.cory.hourcalculator)
+[iOS] - Not Available Yet
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# How To Use
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/corylowry12/corylowry12.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Enter time, or spin the wheel depending on which version you have, in in time
+- Enter time, or spin the wheel depending on which version you have, in out time
+- And hit calculate and let the app work its magic
+- Go to history to view stored hours and manage, edit, delete the hours
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [github repo](https://github.com/corylowry12/Hour-Calculator) and create an issue or post on the discussions tab.
