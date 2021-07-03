@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Hour Calculator
 
-You can use the [editor on GitHub](https://github.com/corylowry12/corylowry12.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+An app, available on Android, and soon to be iOS, that you can use to calculate the difference between two time periods, but in decimal format.
 
-### Markdown
+### Download Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Android]googleplay.com
 
 ```markdown
 Syntax highlighted code block
