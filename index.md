@@ -4,7 +4,7 @@ An app, available on Android, and soon to be iOS, that you can use to calculate 
 
 ### Download Links
 
-[Android]googleplay.com
+[Android](googleplay.com)
 
 ```markdown
 Syntax highlighted code block
