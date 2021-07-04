@@ -5,7 +5,7 @@ An app, available on Android, and soon to be iOS, that you can use to calculate 
 ### Download Links
 
 [Android](https://play.google.com/store/apps/details?id=com.cory.hourcalculator)\
-iOS - Not Available Yet
+[iOS](https://apps.apple.com/us/app/id1574062704)
 
 
 # How To Use
